@@ -2,7 +2,7 @@
 
 **XmasMovies** is a native iOS advent calendar app that unlocks a curated Christmas movie recommendation every day from December 1st to December 24th. Built with **Swift** and **SwiftUI** and published on the Apple App Store.
 
-🔗 **[Download on the App Store](SEM_VLOZ_ODKAZ_NA_APP_STORE)**
+🔗 **HOPEFULLY SOON ON APP STORE (waiting for review)**
 
 ---
 
